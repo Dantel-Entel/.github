@@ -60,7 +60,7 @@ Bu gibi ihtimallerden haberdar olmak için en mantıklı yöntem
     <li>
     Github kullanmayı bilmeniz bu noktada önemli. Çünkü altyazılarımızın en güncel sürümlerine buradan,
     projeler için açılmış repolardan ulaşabilirsiniz. Onun dışında bazı altyazı paylaşım platformlarında 
-    (planetdp, turkcealtyazi) ve belki de discord sunucumuzuda paylaşımlarımızı yapacağız.
+    (planetdp, turkcealtyazi) ve muhtemelen discord sunucumuzda paylaşımlarımızı yapıyoruz.
     </li>
 </ul>
 </details>
