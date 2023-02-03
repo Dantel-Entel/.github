@@ -1,10 +1,10 @@
-<img src="img/ayir.png" style="width: auto;">
+<hr style="background-color: #330093;">
 
 <p style="text-align: center; margin: 10px;">
     <img src="img/banner.jpg" style="border-radius: 15px" alt="banner"></img>
 </p>
 
-<img src="img/ayir.png" style="width: auto;">
+<hr style="background-color: #330093;">
 
 <h3 align="center">İşte bulunduğumuz platformlar! (Şimdilik "platform")</h3>
 <p align="center">
@@ -17,7 +17,7 @@
 </div>
 </p>
 
-<img src="img/ayir.png" style="width: auto;">
+<hr style="background-color: #330093;">
 
 Dantel Entel, keyfine göre işler yapan bir hayran çeviri topluluğudur. 
 
@@ -26,7 +26,7 @@ pek çoklarının fazla tercih edemeyeceği bir oluşum olabilir. Bunun başlıc
 kabullenmek istemediği anlamsız çeviri ve yerelleştirme tabularına bazen bağlı kalıp, bazen bu tabuları yıkmak için 
 kendilerince doğru olduğunu düşündükleri yöntemi uygulayan bir oluşum olmalarıdır.
 
-<img src="img/ayir.png" style="width: auto;">
+<hr style="background-color: #330093;">
 
 Projelerimizi herkese açık bir şekilde Github'da paylaşmayı uygun gördük. Hedefimiz, ufak düzenlemeleri hızlıca
 repolara yansıtıp, herkesin projelerin en güncel haline kolayca ulaşmasını sağlamak. Biz pes edip beyaz bayrağı
@@ -43,7 +43,7 @@ Bu gibi ihtimallerden haberdar olmak için en mantıklı yöntem
 <a href=https://discord.gg/kPNW9WM8n5 target="_blank">Discord</a> adresimizdeki bilgilendirmeleri takip etmek olur.
 
 
-<img src="img/ayir.png" style="width: auto;">
+<hr style="background-color: #330093;">
 
 <h3 align="center"> SSS</h3>
 
@@ -75,4 +75,4 @@ Bu gibi ihtimallerden haberdar olmak için en mantıklı yöntem
 </ul>
 </details>
 
-<img src="img/ayir.png" style="width: auto;">
+<hr style="background-color: #330093;">
