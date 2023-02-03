@@ -40,7 +40,7 @@ projelerimizi yayımlamadan önce, çeviri kontrolünden son kontrole kadar pek 
 gerekçesini kullanıp, bölümlerimizi bayaaa bi' aksatabiliriz. (Seriyi bırakma ihtimalimiz de her zaman mevcuttur efenim.)
 
 Bu gibi ihtimallerden haberdar olmak için en mantıklı yöntem
-<a href=https://discord.gg/kPNW9WM8n5 target="_blank">Discord</a>, Discord adresimizdeki bilgilendirmeleri takip etmek olur.
+<a href=https://discord.gg/kPNW9WM8n5 target="_blank">Discord</a> adresimizdeki bilgilendirmeleri takip etmek olur.
 
 
 <img src="img/ayir.png" style="width: auto;">
