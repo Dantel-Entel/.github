@@ -1,10 +1,10 @@
-<hr style="background-color: #330093;">
+<hr style="background-color: #330093;border-radius: 5px;font-size: 10px;">
 
 <p style="text-align: center; margin: 10px;">
     <img src="img/banner.jpg" style="border-radius: 15px" alt="banner"></img>
 </p>
 
-<hr style="background-color: #330093;">
+<hr style="background-color: #330093;border-radius: 5px;font-size: 10px;">
 
 <h3 align="center">İşte bulunduğumuz platformlar! (Şimdilik "platform")</h3>
 <p align="center">
@@ -17,7 +17,7 @@
 </div>
 </p>
 
-<hr style="background-color: #330093;">
+<hr style="background-color: #330093;border-radius: 5px;font-size: 10px;">
 
 Dantel Entel, keyfine göre işler yapan bir hayran çeviri topluluğudur. 
 
@@ -26,7 +26,7 @@ pek çoklarının fazla tercih edemeyeceği bir oluşum olabilir. Bunun başlıc
 kabullenmek istemediği anlamsız çeviri ve yerelleştirme tabularına bazen bağlı kalıp, bazen bu tabuları yıkmak için 
 kendilerince doğru olduğunu düşündükleri yöntemi uygulayan bir oluşum olmalarıdır.
 
-<hr style="background-color: #330093;">
+<hr style="background-color: #330093;border-radius: 5px;font-size: 10px;">
 
 Projelerimizi herkese açık bir şekilde Github'da paylaşmayı uygun gördük. Hedefimiz, ufak düzenlemeleri hızlıca
 repolara yansıtıp, herkesin projelerin en güncel haline kolayca ulaşmasını sağlamak. Biz pes edip beyaz bayrağı
@@ -43,7 +43,7 @@ Bu gibi ihtimallerden haberdar olmak için en mantıklı yöntem
 <a href=https://discord.gg/kPNW9WM8n5 target="_blank">Discord</a> adresimizdeki bilgilendirmeleri takip etmek olur.
 
 
-<hr style="background-color: #330093;">
+<hr style="background-color: #330093;border-radius: 5px;font-size: 10px;">
 
 <h3 align="center"> SSS</h3>
 
@@ -75,4 +75,4 @@ Bu gibi ihtimallerden haberdar olmak için en mantıklı yöntem
 </ul>
 </details>
 
-<hr style="background-color: #330093;">
+<hr style="background-color: #330093;border-radius: 5px;font-size: 10px;">
