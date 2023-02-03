@@ -45,7 +45,7 @@ Bu gibi ihtimallerden haberdar olmak için en mantıklı yöntem
 
 <img src="img/ayir.png" style="width: auto;">
 
-<h2 align="center">SSS</h3>
+<h2 align="center">SSS</h2>
 
 #### **Şu seriyi çevirir misiniz?**
 
