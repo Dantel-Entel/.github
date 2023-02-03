@@ -45,34 +45,18 @@ Bu gibi ihtimallerden haberdar olmak için en mantıklı yöntem
 
 <img src="img/ayir.png" style="width: auto;">
 
-<h3 align="center"> SSS</h3>
+<h2 align="center">SSS</h3>
 
-<details><summary>Projelerinizi kendi lehime kullanabilir miyim?</summary>
-<ul>
-    <li>
-    İstediğiniz gibi kullanın da bari bir referans vermeyi çok görmeyin.
-    </li>
-</ul>
-</details>
+#### **Şu seriyi çevirir misiniz?**
 
-<details><summary>Paylaşımları nerede yapıyorsunuz?</summary>
-<ul>
-    <li>
-    Github kullanmayı bilmeniz bu noktada önemli. Çünkü altyazılarımızın en güncel sürümlerine buradan,
-    projeler için açılmış repolardan ulaşabilirsiniz. Onun dışında bazı altyazı paylaşım platformlarında 
-    (planetdp, turkcealtyazi) ve muhtemelen discord sunucumuzda paylaşımlarımızı yapıyoruz.
-    </li>
-</ul>
-</details>
+- Çok beğenirsek evet, muhtemelen hayır. Eğlenmediğimiz bir işe vakit harcamak, "Fan" ve "Subtitle" kelimelerinin birleşimiyle oluşan "Fansub" kavramına aykırı olur. 
+Dolayısıyla iş yükümüzü artırırken seçici davranmak durumundayız.
+Çevirdiğimiz her şeyin gerçekten "fan"ı mıyız peki? Hayır, ama olsundu.
 
-<details><summary>Şu seriyi çevirir misiniz?</summary>
-<ul>
-    <li>
-    Çok beğenirsek evet, muhtemelen hayır. "Fan" ve "Subtitle" kelimelerinin birleşimiyle oluşan "Fansub" kavramına
-    aykırı olur eğlenmediğimiz bir işe vakit harcamak. Dolayısıyla iş yükümüzü artırırken seçici davranmak durumundayız.
-    Çevirdiğimiz her şeyin gerçekten "fan"ı mıyız peki? Hayır, ama olsundu.
-    </li>
-</ul>
-</details>
+#### **Paylaşımları nerede yapıyorsunuz?**
 
-<img src="img/ayir.png" style="width: auto;">
+- Github kullanmayı bilmeniz bu noktada önemli. Çünkü altyazılarımızın en güncel sürümlerine buradan, projeler için açılmış repolardan ulaşabilirsiniz. Onun dışında bazı altyazı paylaşım platformlarında (planetdp, turkcealtyazi) ve muhtemelen discord sunucumuzda paylaşımlarımızı yapıyoruz.
+
+#### **Projelerinizi kendi lehime kullanabilir miyim?**
+
+- İstediğiniz gibi kullanın da bari bir referans vermeyi çok görmeyin.
