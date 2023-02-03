@@ -1,7 +1,7 @@
 <img src="img/ayir.png" style="width: auto;">
 
 <p style="text-align: center; margin: 10px;">
-    <img src="img/banners/banner.jpg" style="border-radius: 15px" alt="banner"></img>
+    <img src="img/banner.jpg" style="border-radius: 15px" alt="banner"></img>
 </p>
 
 <img src="img/ayir.png" style="width: auto;">
