@@ -32,7 +32,7 @@ Projelerimizi herkese açık bir şekilde Github'da paylaşmayı uygun gördük.
 repolara yansıtıp, herkesin projelerin en güncel haline kolayca ulaşmasını sağlamak. Biz pes edip beyaz bayrağı
 çektikten yıllar sonra bile github organizasyonumuzdaki repolar ulaşılabilir olmalı. Yani uzun vadede de 
 bu yöntemin, izleyicinin avantajına olduğu kanaatindeyiz. Ayrıca herkese açık bir altyazı paylaşımı, gelecekte
-seriler için daha iyi kaynaklar paylaşıldığında, hardsub gömülü altyazı paylaşan ekiplerin aksine uğraş verdiğimiz
+seriler için daha iyi kaynaklar paylaşıldığında, gömülü (hardsub) altyazı paylaşan ekiplerin aksine uğraş verdiğimiz
 çalışmaların arşiv değerini de artırmış oluyoruz.
 
 Ancak her saat başı yeni bir bölüm yayımlayan ve birbiriyle resmen yarış halinde olan hayran gruplarının aksine, 
