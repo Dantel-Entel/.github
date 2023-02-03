@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-    <img style="display: inline-block; margin: 10px;" src="https://komarev.com/ghpvc/?username=Dantel-Entel&color=0FC0FF&label=Views"><img>
+    <img style="display: inline-block; margin: 10px;" src="https://komarev.com/ghpvc/?username=Dantel-Entel&color=330093&label=Views"><img>
 </div>
 </p>
 
