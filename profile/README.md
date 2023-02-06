@@ -9,6 +9,7 @@
 <h3 align="center">İşte bulunduğumuz platformlar! (Şimdilik "platform")</h3>
 <p align="center">
 <a href="https://discord.gg/kPNW9WM8n5" target="_blank"><img style="display: inline-block; width: 40px; height: auto; margin: 3px;" src="img/discord.png" alt="Discord" /></a>
+<a href="https://dantelentel.blogspot.com/" target="_blank"><img style="display: inline-block; width: 40px; height: auto; margin: 3px;" src="img/blog.png" alt="Blog" /></a>
 <!-- <a href="lazimolursa" target="_blank"><img style="display: inline-block; width: 40px; height: auto; margin: 3px;" src="img/.png" alt="Lazim Olursa" /></a> -->
 </p>
 
